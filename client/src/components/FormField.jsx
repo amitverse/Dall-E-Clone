@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Card = () => {
+const FormField = () => {
   return (
     <div>
-      Card
+      FormField
     </div>
   )
 }
 
-export default Card
+export default FormField
